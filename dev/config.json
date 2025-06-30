@@ -1,0 +1,9 @@
+{
+    "camera_index": 0,
+    "res_width": 500,
+    "res_height": 500,
+    "client_ip": "",
+    "client_port": 1,
+    "server_ip": "0.0.0.0",
+    "server_port": 9999
+}
